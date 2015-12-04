@@ -1,0 +1,6 @@
+c:\users\faim\documents\visual studio 2013\Projects\COMP397-FinalProject-PlatformGame\COMP397-FinalProject-PlatformGame\bin\COMP397-Practice-Lesson02.dll.config
+c:\users\faim\documents\visual studio 2013\Projects\COMP397-FinalProject-PlatformGame\COMP397-FinalProject-PlatformGame\bin\COMP397-Practice-Lesson02.dll
+c:\users\faim\documents\visual studio 2013\Projects\COMP397-FinalProject-PlatformGame\COMP397-FinalProject-PlatformGame\bin\COMP397-Practice-Lesson02.pdb
+c:\users\faim\documents\visual studio 2013\Projects\COMP397-FinalProject-PlatformGame\COMP397-FinalProject-PlatformGame\obj\Debug\COMP397-FinalProject-PlatformGame.csprojResolveAssemblyReference.cache
+c:\users\faim\documents\visual studio 2013\Projects\COMP397-FinalProject-PlatformGame\COMP397-FinalProject-PlatformGame\obj\Debug\COMP397-Practice-Lesson02.dll
+c:\users\faim\documents\visual studio 2013\Projects\COMP397-FinalProject-PlatformGame\COMP397-FinalProject-PlatformGame\obj\Debug\COMP397-Practice-Lesson02.pdb
